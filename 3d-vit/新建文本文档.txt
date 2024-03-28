@@ -1,0 +1,15 @@
+setting
+train_data_process  提取向量形式的样本
+test_data_process
+train_sample 从训练图像中随机选取训练集和验证集
+
+train_nn
+predict
+
+_1 为data1数据对应的程序 
+train: 1 2 3 4 5
+test: 6 7 8 9 10
+
+_2 为data2数据对应的程序
+train: 20 22 26 28 29 31 38
+test: 23 25 27 30 33 35 36
